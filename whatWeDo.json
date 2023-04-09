@@ -1,0 +1,26 @@
+ [
+        {
+            "logo": "./assets/svg/DgMar.svg",
+            "name":"Digital Marketing",
+            "body": "That is the simply dummy text the printing and typesetting industry. "
+          
+        },
+        {
+            "logo": "./assets/svg/seo.svg",
+            "name":"SEO",
+            "body": "That is the simply dummy text the printing and typesetting industry. "
+          
+        },
+        {
+            "logo": "./assets/svg/UiUx.svg",
+            "name":"UI UX Design",
+            "body": "That is the simply dummy text the printing and typesetting industry. "
+          
+        },
+        {
+            "logo": "./assets/svg/web.svg",
+            "name":"Web Development",
+            "body": "That is the simply dummy text the printing and typesetting industry. "
+          
+        }
+    ]
